@@ -15,3 +15,9 @@ else
 fi
 
 ####################################################################
+
+# Kane modifications
+export COMMANDLINE_ARGS="$COMMANDLINE_ARGS --ckpt-dir /Users/kane/Documents/Stable-Diffusion/models/ckpt"
+export COMMANDLINE_ARGS="$COMMANDLINE_ARGS --embeddings-dir /Users/kane/Documents/Stable-Diffusion/models/embeddings"
+export COMMANDLINE_ARGS="$COMMANDLINE_ARGS --lora-dir /Users/kane/Documents/Stable-Diffusion/models/lora"
+export COMMANDLINE_ARGS="$COMMANDLINE_ARGS --vae-dir /Users/kane/Documents/Stable-Diffusion/models/vae"
