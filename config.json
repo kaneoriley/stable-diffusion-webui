@@ -135,9 +135,16 @@
     "disabled_extensions": [
         "SadTalker",
         "TemporalKit",
+        "adetailer",
+        "deforum-for-automatic1111-webui",
         "infinite-zoom-automatic1111-webui",
         "model_preset_manager",
         "sd-dynamic-prompts",
+        "sd-webui-animatediff",
+        "sd-webui-cutoff",
+        "sd-webui-faceswaplab",
+        "sd-webui-infinite-image-browsing",
+        "stable-diffusion-webui-rembg",
         "stable-diffusion-webui-state"
     ],
     "ldsr_steps": 100,
