@@ -1,2 +1,5 @@
 ﻿name,prompt,negative_prompt
-Blank Template,"{prompt}",""
+Photon Template,"{prompt}","(worst quality:2), (low quality:1.8), (normal quality:1.6) BREAK {prompt}"
+PonyDiffusion Scores,"score_9, score_8_up, score_7_up BREAK {prompt}","score_6, score_5, score_4 BREAK {prompt}"
+PonyDiffusion Ratings,"rating_safe, rating_questionable, rating_explicit BREAK {prompt}","{prompt}"
+PonyDiffusion Sources,"source_pony, source_furry, source_cartoon, source_anime BREAK {prompt}","{prompt}"
